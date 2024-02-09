@@ -1,6 +1,6 @@
 package com.example.schoolnyc
 
-import adapter.SchoolAdapter
+import com.example.schoolnyc.adapter.SchoolAdapter
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast

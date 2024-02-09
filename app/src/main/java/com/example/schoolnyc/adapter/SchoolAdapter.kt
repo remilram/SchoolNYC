@@ -1,4 +1,4 @@
-package adapter
+package com.example.schoolnyc.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
